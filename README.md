@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Carlo
+# Hi there! I'm Carlo 👋
 
 💻 Principal Data Infrastructure Engineer · Platform Engineering · AI/ML · Cloud · DevSecOps
 
