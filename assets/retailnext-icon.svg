@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="RetailNext icon">
+  <polygon points="8,24 24,8 24,24" fill="#1CB4C6"/>
+  <polygon points="24,8 56,8 40,24 24,24" fill="#6EC8E5"/>
+  <polygon points="24,24 40,24 40,40 24,40" fill="#FFD21A"/>
+  <polygon points="40,24 56,8 56,40 40,40" fill="#000000"/>
+  <polygon points="40,40 56,40 40,56" fill="#1CB4C6"/>
+</svg>

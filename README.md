@@ -73,7 +73,7 @@ I work across the stack — from **LLM applications and data pipelines** to **ba
 
 ## 💼 Experience
 
-I’ve worked across engineering, architecture, platform, data, AI/ML, performance, and technical leadership roles at organizations including **GitLab, Zendesk, RetailNext, Overproof, Promevo, Cambridge University Press, IMVU, and Bodog Nation**.
+I’ve worked across engineering, architecture, platform, data, AI/ML, performance, and technical leadership roles at organizations including **<img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" width="14" /> GitLab, <img src="https://cdn.simpleicons.org/zendesk/03363D" alt="Zendesk" width="14" /> Zendesk, <img src="./assets/retailnext-icon.svg" alt="RetailNext" width="14" /> RetailNext, Overproof, Promevo, Cambridge University Press, IMVU, and Bodog Nation**.
 
 My recent work focuses on building **production AI/LLM systems and the infrastructure behind them**, while my broader background spans application development, cloud platforms, distributed systems, testing, performance, and reliability engineering.
 
