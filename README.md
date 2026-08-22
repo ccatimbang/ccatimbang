@@ -102,3 +102,5 @@ I use AI-assisted engineering extensively for planning, implementation, debuggin
 - GitHub: [github.com/ccatimbang](https://github.com/ccatimbang)
 - Email: [carlo@catimbang.com](mailto:carlo@catimbang.com)
 - Location: Barcelona, Spain
+- Owned Orgs: [@freyatechnologies](https://github.com/freyatechnologies) & [@dkdlabs](https://github.com/dkdlabs)
+
